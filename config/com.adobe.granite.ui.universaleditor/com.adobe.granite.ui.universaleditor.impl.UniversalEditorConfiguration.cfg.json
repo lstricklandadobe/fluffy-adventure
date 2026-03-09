@@ -1,0 +1,5 @@
+{
+  "universalEditorOpeningMappings": [
+    "/content/fluffy-adventure:${author}${path}.html?login-token=${token}"
+  ]
+}
